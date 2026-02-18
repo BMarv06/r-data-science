@@ -5,3 +5,6 @@ library(ggplot2)
 library(purrr)
 library(car)
 library(rstatix)
+
+install.packages("car")
+install.packages("rstatix")
